@@ -10,6 +10,8 @@ namespace StoneWorldGit
     {
         static void Main(string[] args)
         {
+
+            Console.ReadKey();
         }
     }
 }
